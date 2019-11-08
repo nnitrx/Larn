@@ -1,0 +1,887 @@
+AC	includes/larncons.h	147
+AGGRAVATE	includes/larncons.h	172
+AL	io.c	755
+ALTPRO	includes/larncons.h	165
+AMULET	includes/larncons.h	157
+ANSITERM_ESC	ansiterm.c	14
+ANT	includes/larncons.h	79
+ARMORTYPES	monster.c	737
+ASSASSINBUG	includes/larncons.h	86
+AWARENESS	includes/larncons.h	178
+BANKACCOUNT	includes/larncons.h	148
+BAT	includes/larncons.h	69
+BESSMANN	includes/larncons.h	185
+BLINDCOUNT	includes/larncons.h	162
+BOLD	includes/larncons.h	14
+BRONZEDRAGON	includes/larncons.h	116
+BUFBIG	includes/larncons.h	52
+BUGBEAR	includes/larncons.h	87
+BYTESIN	includes/larncons.h	189
+BYTESOUT	includes/larncons.h	190
+CANCELLATION	includes/larncons.h	169
+CAVELEVEL	includes/larncons.h	163
+CD	io.c	739
+CE	io.c	736
+CENTAUR	includes/larncons.h	90
+CENTIPEDE	includes/larncons.h	76
+CHARISMA	includes/larncons.h	139
+CHARMCOUNT	includes/larncons.h	167
+CHKPTINT	tok.c	23
+CL	io.c	742
+CLEAR	includes/larncons.h	16
+CLUMSINESS	includes/larncons.h	202
+CL_DOWN	includes/larncons.h	20
+CL_LINE	includes/larncons.h	17
+CM	io.c	745
+CONFUSE	includes/larncons.h	164
+CONSTITUTION	includes/larncons.h	137
+CPUTIME	includes/larncons.h	188
+CUBE	includes/larncons.h	95
+CUBEofUNDEAD	includes/larncons.h	182
+CURSOR	includes/larncons.h	21
+DEMONLORD	includes/larncons.h	125
+DEMONPRINCE	includes/larncons.h	126
+DEXCOUNT	includes/larncons.h	160
+DEXTERITY	includes/larncons.h	138
+DIAGFILE	main.c	30
+DISENCHANTRESS	includes/larncons.h	109
+DL	io.c	758
+DRAINSTRENGTH	includes/larncons.h	201
+ECOUNTER	includes/larncons.h	152
+ELF	includes/larncons.h	94
+END_BOLD	includes/larncons.h	15
+END_SENTINEL	inventory.c	31
+ENERGY	includes/larncons.h	151
+EXPERIENCE	includes/larncons.h	143
+EYE	includes/larncons.h	80
+EYEOFLARN	includes/larncons.h	171
+FALSE	includes/larncons.h	39
+FILLROOM	includes/larncons.h	206
+FIRERESISTANCE	includes/larncons.h	184
+FORTSNAME	main.c	28
+FORVALAKA	includes/larncons.h	101
+GETQUEUE	movem.c	/^#define GETQUEUE( _x, _y, _d )          \\$/
+GIANTSTR	includes/larncons.h	183
+GLOBE	includes/larncons.h	173
+GNOME	includes/larncons.h	70
+GNOMEKING	includes/larncons.h	113
+GOLD	includes/larncons.h	142
+GREATSWORDDEATH	includes/larncons.h	194
+GREENDRAGON	includes/larncons.h	117
+GREENURCHIN	includes/larncons.h	123
+HALFDAM	includes/larncons.h	204
+HARDGAME	includes/larncons.h	187
+HASTEMONST	includes/larncons.h	181
+HASTESELF	includes/larncons.h	170
+HAVESEEN	includes/larncons.h	26
+HELLHOUND	includes/larncons.h	88
+HERO	includes/larncons.h	166
+HOBGOBLIN	includes/larncons.h	71
+HOLDMONST	includes/larncons.h	179
+HP	includes/larncons.h	141
+HPMAX	includes/larncons.h	140
+ICELIZARD	includes/larncons.h	89
+IDISTAGGR	movem.c	32
+IDISTAGGR	movem.c	35
+IDISTNORM	movem.c	31
+IDISTNORM	movem.c	34
+INFEEBLEMENT	includes/larncons.h	203
+INTELLIGENCE	includes/larncons.h	135
+INVISIBILITY	includes/larncons.h	168
+INVISIBLESTALKER	includes/larncons.h	107
+ITCHING	includes/larncons.h	199
+JACKAL	includes/larncons.h	72
+JACULI	includes/larncons.h	77
+KNOWALL	includes/larncons.h	28
+KNOWHERE	includes/larncons.h	27
+KNOWNOT	includes/larncons.h	25
+KOBOLD	includes/larncons.h	73
+LAMANOBE	includes/larncons.h	102
+LARNHOME	includes/larncons.h	32
+LAUGHING	includes/larncons.h	200
+LEPRECHAUN	includes/larncons.h	81
+LEVEL	includes/larncons.h	144
+LEVELSNAME	main.c	32
+LIFEPROT	includes/larncons.h	212
+LINBUFSIZE	io.c	88
+LOGFNAME	main.c	27
+LOGNAMESIZE	includes/larncons.h	54
+MAXARGS	tgoto.c	82
+MAXIBUF	includes/larncons.h	53
+MAXINVEN	inventory.c	20
+MAXITM	store.c	78
+MAXLEVEL	includes/larncons.h	41
+MAXMONST	includes/larncons.h	66
+MAXOBJ	includes/larncons.h	228
+MAXOBJECT	includes/larncons.h	231
+MAXPLEVEL	includes/larncons.h	47
+MAXPOTION	includes/larncons.h	225
+MAXPOTIONNAME	includes/larncons.h	226
+MAXSCROLL	includes/larncons.h	222
+MAXSCROLLNAME	includes/larncons.h	223
+MAXVLEVEL	includes/larncons.h	42
+MAXX	includes/larncons.h	43
+MAXY	includes/larncons.h	44
+MAX_QUEUE	movem.c	249
+MEG	data.c	60
+MEG	data.c	76
+METAMORPH	includes/larncons.h	96
+MIMIC	includes/larncons.h	114
+MIN_LIMIT	inventory.c	26
+MONSTKILLED	includes/larncons.h	192
+MOREDAM	includes/larncons.h	159
+MOREDEFENSES	includes/larncons.h	153
+MOVESMADE	includes/larncons.h	191
+Mmain	main.c	/^main (int argc, char *argv[])$/
+NAPTIME	includes/larncons.h	216
+NEGATESPIRIT	includes/larncons.h	176
+NOTHEFT	includes/larncons.h	186
+NYMPH	includes/larncons.h	82
+O2SWORD	includes/larncons.h	275
+OALTAR	includes/larncons.h	233
+OAMULET	includes/larncons.h	300
+OANNIHILATION	includes/larncons.h	326
+OBANK	includes/larncons.h	248
+OBANK2	includes/larncons.h	247
+OBATTLEAXE	includes/larncons.h	279
+OBELT	includes/larncons.h	294
+OBOOK	includes/larncons.h	298
+OBRASSLAMP	includes/larncons.h	331
+OCHAIN	includes/larncons.h	261
+OCHEST	includes/larncons.h	299
+OCLEVERRING	includes/larncons.h	291
+OCLOSEDDOOR	includes/larncons.h	253
+OCOOKIE	includes/larncons.h	329
+OCUBEofUNDEAD	includes/larncons.h	304
+ODAGGER	includes/larncons.h	278
+ODAMRING	includes/larncons.h	292
+ODARTRAP	includes/larncons.h	320
+ODEADFOUNTAIN	includes/larncons.h	249
+ODEADTHRONE	includes/larncons.h	325
+ODEXRING	includes/larncons.h	289
+ODGOLD	includes/larncons.h	318
+ODIAMOND	includes/larncons.h	307
+ODNDSTORE	includes/larncons.h	244
+OELEVATORDOWN	includes/larncons.h	246
+OELEVATORUP	includes/larncons.h	238
+OELVENCHAIN	includes/larncons.h	269
+OEMERALD	includes/larncons.h	309
+OENERGYRING	includes/larncons.h	288
+OENTRANCE	includes/larncons.h	312
+OFOUNTAIN	includes/larncons.h	239
+OGOLDPILE	includes/larncons.h	251
+OGREATSWORD	includes/larncons.h	281
+OHAMMER	includes/larncons.h	273
+OHANDofFEAR	includes/larncons.h	332
+OHOME	includes/larncons.h	315
+OHSWORD	includes/larncons.h	276
+OIVDARTRAP	includes/larncons.h	319
+OIVTELETRAP	includes/larncons.h	324
+OIVTRAPDOOR	includes/larncons.h	322
+OKGOLD	includes/larncons.h	317
+OLARNEYE	includes/larncons.h	258
+OLEATHER	includes/larncons.h	262
+OLONGSWORD	includes/larncons.h	280
+OLRS	includes/larncons.h	328
+OMAXGOLD	includes/larncons.h	250
+OMIRROR	includes/larncons.h	243
+ONOTHEFT	includes/larncons.h	305
+OOPENDOOR	includes/larncons.h	252
+OORB	includes/larncons.h	235
+OORBOFDRAGON	includes/larncons.h	302
+OPIT	includes/larncons.h	236
+OPLATE	includes/larncons.h	260
+OPLATEARMOR	includes/larncons.h	266
+OPOTION	includes/larncons.h	297
+OPROTRING	includes/larncons.h	287
+OPSTAFF	includes/larncons.h	335
+ORC	includes/larncons.h	74
+OREGENRING	includes/larncons.h	286
+ORING	includes/larncons.h	263
+ORINGOFEXTRA	includes/larncons.h	285
+ORUBY	includes/larncons.h	308
+OSAPPHIRE	includes/larncons.h	310
+OSCHOOL	includes/larncons.h	242
+OSCROLL	includes/larncons.h	296
+OSEQUIP	includes/larncons.h	103
+OSHIELD	includes/larncons.h	268
+OSLAYER	includes/larncons.h	283
+OSPEAR	includes/larncons.h	277
+OSPHTAILSMAN	includes/larncons.h	333
+OSPIRITSCARAB	includes/larncons.h	303
+OSPLINT	includes/larncons.h	265
+OSSPLATE	includes/larncons.h	267
+OSTAIRSDOWN	includes/larncons.h	245
+OSTAIRSUP	includes/larncons.h	237
+OSTATUE	includes/larncons.h	240
+OSTRRING	includes/larncons.h	290
+OSTUDLEATHER	includes/larncons.h	264
+OSWORD	includes/larncons.h	274
+OSWORDofSLASHING	includes/larncons.h	272
+OTELEPORTER	includes/larncons.h	241
+OTHRONE	includes/larncons.h	234
+OTHRONE2	includes/larncons.h	327
+OTRADEPOST	includes/larncons.h	323
+OTRAPARROW	includes/larncons.h	255
+OTRAPARROWIV	includes/larncons.h	256
+OTRAPDOOR	includes/larncons.h	321
+OURN	includes/larncons.h	330
+OVOLDOWN	includes/larncons.h	313
+OVOLUP	includes/larncons.h	314
+OVORPAL	includes/larncons.h	282
+OWALL	includes/larncons.h	254
+OWWAND	includes/larncons.h	334
+PATCHLEVEL	includes/larncons.h	9
+PATHLEN	includes/larncons.h	30
+PLATINUMDRAGON	includes/larncons.h	122
+PLAYERIDS	main.c	29
+POLTERGEIST	includes/larncons.h	108
+PROTECTIONTIME	includes/larncons.h	155
+PURPLEWORM	includes/larncons.h	118
+PUTQUEUE	movem.c	/^#define PUTQUEUE( _x, _y, _d )          \\$/
+QUASIT	includes/larncons.h	83
+QUEUEEMPTY	movem.c	/^#define QUEUEEMPTY() (queue_head == queue_tail)$/
+RANDOMWALK	includes/larncons.h	207
+REDDRAGON	includes/larncons.h	124
+REGEN	includes/larncons.h	145
+REGENCOUNTER	includes/larncons.h	158
+ROTHE	includes/larncons.h	104
+RUSTMONSTER	includes/larncons.h	84
+SAVEFILE	main.c	31
+SAVEFILENAMESIZE	includes/larncons.h	56
+SCAREMONST	includes/larncons.h	177
+SCORENAME	main.c	26
+SCORESIZE	scores.c	620
+SCORESIZE	scores.c	627
+SCORESIZE	includes/larncons.h	46
+SE	io.c	764
+SEEINVISIBLE	includes/larncons.h	205
+SHAMBLINGMOUND	includes/larncons.h	110
+SHIELD	includes/larncons.h	197
+SILVERDRAGON	includes/larncons.h	121
+SLAYING	includes/larncons.h	175
+SNAKE	includes/larncons.h	75
+SO	io.c	761
+SPELLMAX	includes/larncons.h	149
+SPELLS	includes/larncons.h	150
+SPELLSCAST	includes/larncons.h	193
+SPHCAST	includes/larncons.h	208
+SPHMAX	spheres.c	202
+SPIRITNAGA	includes/larncons.h	120
+SPIRITPRO	includes/larncons.h	195
+SPNUM	includes/larncons.h	48
+STEALTH	includes/larncons.h	198
+STRCOUNT	includes/larncons.h	161
+STRENGTH	includes/larncons.h	134
+STREXTRA	includes/larncons.h	210
+STRING_BUFFER_SIZE	includes/larncons.h	58
+ST_END	includes/larncons.h	13
+ST_START	includes/larncons.h	12
+SUBVER	includes/larncons.h	8
+SUBVERSION	data.c	91
+TAXRATE	includes/larncons.h	50
+TE	io.c	770
+TELEFLAG	includes/larncons.h	174
+TI	io.c	767
+TIMELIMIT	includes/larncons.h	49
+TIMESTOP	includes/larncons.h	180
+TMP	includes/larncons.h	211
+TROGLODYTE	includes/larncons.h	78
+TROLL	includes/larncons.h	91
+TRUE	includes/larncons.h	38
+T_END	includes/larncons.h	19
+T_INIT	includes/larncons.h	18
+UMBERHULK	includes/larncons.h	112
+UNDEADPRO	includes/larncons.h	196
+VAMPIRE	includes/larncons.h	106
+VER	includes/larncons.h	7
+VERSION	data.c	90
+VIOLETFUNGI	includes/larncons.h	99
+VORTEX	includes/larncons.h	97
+WATERLORD	includes/larncons.h	115
+WCLASS	includes/larncons.h	146
+WEAR	includes/larncons.h	154
+WHITEDRAGON	includes/larncons.h	93
+WIELD	includes/larncons.h	156
+WISDOM	includes/larncons.h	136
+WIZID	config.c	12
+WIZID	includes/larncons.h	35
+WRAITH	includes/larncons.h	100
+WTW	includes/larncons.h	209
+XORN	includes/larncons.h	105
+XVART	includes/larncons.h	119
+YELLOWMOLD	includes/larncons.h	111
+YETI	includes/larncons.h	92
+ZILLER	includes/larncons.h	98
+ZOMBIE	includes/larncons.h	85
+_getch	includes/larnfunc.h	83
+_itm	includes/larndata.h	49
+aa1	data.c	11
+aa2	data.c	12
+aa3	data.c	13
+aa4	data.c	14
+aa5	data.c	15
+aa6	data.c	16
+aa7	data.c	17
+aa8	data.c	18
+aa9	data.c	19
+aborted	data.c	120
+ac	scores.c	76
+act_desecrate_altar	action.c	/^act_desecrate_altar (void)$/
+act_donation_pray	action.c	/^act_donation_pray (void)$/
+act_down_shaft	action.c	/^act_down_shaft (void)$/
+act_down_stairs	action.c	/^act_down_stairs (void)$/
+act_drink_fountain	action.c	/^act_drink_fountain (void)$/
+act_ignore_altar	action.c	/^act_ignore_altar (void)$/
+act_just_pray	action.c	/^act_just_pray (void)$/
+act_open_chest	action.c	/^act_open_chest (int x, int y)$/
+act_open_door	action.c	/^act_open_door (int x, int y)$/
+act_prayer_heard	action.c	/^act_prayer_heard (void)$/
+act_remove_gems	action.c	/^act_remove_gems (int arg)$/
+act_sit_throne	action.c	/^act_sit_throne (int arg)$/
+act_up_shaft	action.c	/^act_up_shaft (void)$/
+act_up_stairs	action.c	/^act_up_stairs (void)$/
+act_wash_fountain	action.c	/^act_wash_fountain (void)$/
+adjtimel	object.c	/^adjtimel (int tim)$/
+adjustcvalues	global.c	/^adjustcvalues (int itm, int arg)$/
+always	display.c	38
+amtgoldtrad	store.c	/^amtgoldtrad(void)$/
+annihilate	spells.c	/^annihilate (void)$/
+ansiterm_clean_up	ansiterm.c	/^ansiterm_clean_up (void)$/
+ansiterm_command	ansiterm.c	/^ansiterm_command (int ansi_cmd, const char *param1/
+ansiterm_delch	ansiterm.c	/^ansiterm_delch (void)$/
+ansiterm_getch	ansiterm.c	/^ansiterm_getch (void)$/
+ansiterm_getche	ansiterm.c	/^ansiterm_getche (void)$/
+ansiterm_init	ansiterm.c	/^ansiterm_init (void)$/
+ansiterm_out	ansiterm.c	/^ansiterm_out (const char *output_buffer, int n_cha/
+ansiterm_putchar	ansiterm.c	/^ansiterm_putchar (int c)$/
+arg	spells.c	45
+arg	includes/larndata.h	53
+args	tgoto.c	89
+armorclass	includes/larndata.h	37
+atgoto	tgoto.c	/^atgoto (const char *cm, int destcol, int destline)/
+attack	includes/larndata.h	39
+banktitle	store.c	/^banktitle (char *str)$/
+beenhere	data.c	89
+bot1f	display.c	37
+bot_data	display.c	315
+bot_hpx	display.c	/^bot_hpx (void)$/
+bot_linex	display.c	/^bot_linex (void)$/
+bot_side_def	display.c	306
+bot_spellx	display.c	/^bot_spellx (void)$/
+botside	display.c	/^botside (void)$/
+botsub	display.c	/^#define botsub( _idx, _x, _y, _str )        \\$/
+bottomdo	display.c	/^bottomdo (void)$/
+bottomgold	display.c	/^bottomgold (void)$/
+bottomhp	display.c	/^bottomhp (void)$/
+bottomline	display.c	/^bottomline (void)$/
+bottomspell	display.c	/^bottomspell (void)$/
+build_proximity_ripple	movem.c	/^build_proximity_ripple (void)$/
+bytin	scores.c	74
+bytout	scores.c	73
+cannedlevel	create.c	/^cannedlevel (int k)$/
+cast	spells.c	/^cast (void)$/
+cavelev	scores.c	69
+cbak	data.c	118
+cdesc	data.c	118
+cel	includes/larndata.h	12
+cell	data.c	80
+cgood	monster.c	/^cgood (int x, int y, int itm, int monst)$/
+cheat	data.c	100
+checkgen	create.c	/^checkgen (void)$/
+checkloss	monster.c	/^checkloss (int x)$/
+checkmail	scores.c	/^checkmail (void)$/
+cl_dn	io.c	/^cl_dn (int x, int y)$/
+cl_line	io.c	/^cl_line (int x, int y)$/
+cl_up	io.c	/^cl_up (int x, int y)$/
+classname	data.c	20
+cleartradiven	store.c	/^cleartradiven (int i)$/
+clearvt100	io.c	/^clearvt100 (void)$/
+close_something	moreobj.c	/^close_something (void)$/
+cltoeoln	includes/larnfunc.h	/^#define cltoeoln() (*lpnt++ = CL_LINE)$/
+cmdhelp	main.c	63
+cnsitm	store.c	/^cnsitm (void)$/
+consume	main.c	/^consume (int search_item, char *prompt, int (*show/
+count	display.c	849
+course	store.c	202
+coursetime	store.c	203
+create_guardian	spells.c	/^create_guardian (int monst, int x, int y)$/
+creategem	global.c	/^creategem (void)$/
+createitem	monster.c	/^createitem (int it, int arg)$/
+createmonster	monster.c	/^createmonster (int mon)$/
+curse	object.c	876
+cursor	io.c	/^cursor (int x, int y)$/
+cursors	io.c	/^cursors (void)$/
+d_flag	display.c	420
+d_xmin	display.c	377
+damage	includes/larndata.h	38
+defense	includes/larndata.h	40
+desecrate_altar	moreobj.c	/^desecrate_altar (void)$/
+diag	diag.c	/^diag (void)$/
+diagdrawscreen	diag.c	/^diagdrawscreen (void)$/
+diagfile	config.c	30
+died	scores.c	/^died (int x)$/
+diedlog	scores.c	/^diedlog (void)$/
+diedsub	scores.c	/^diedsub (int x)$/
+diedtime	scores.c	68
+diff	scores.c	70
+dir	includes/larndata.h	26
+direct	spells.c	/^direct (int spnum, int dam, char *str, int arg)$/
+diroffx	display.c	766
+diroffy	display.c	767
+dirpoly	spells.c	/^dirpoly (int spnum)$/
+dirsub	spells.c	/^dirsub (int *x, int *y)$/
+disappear	includes/larnfunc.h	/^#define disappear(x,y) (mitem[x][y]=know[x][y]=0)$/
+display_help_text	help.c	/^display_help_text(void)$/
+distance	movem.c	38
+distance	movem.c	254
+dnd_2hed	store.c	/^dnd_2hed (void)$/
+dnd_hed	store.c	/^dnd_hed (void)$/
+dnd_item	store.c	81
+dndcount	store.c	54
+dnditem	store.c	/^dnditem (int i)$/
+dndstore	store.c	/^dndstore (void)$/
+down_stairs	moreobj.c	/^down_stairs (void)$/
+draws	display.c	/^draws (int xmin, int xmax, int ymin, int ymax)$/
+drawscreen	display.c	/^drawscreen (void)$/
+drink_fountain	moreobj.c	/^drink_fountain (void)$/
+drop_object	inventory.c	/^drop_object (int k)$/
+dropflag	main.c	55
+dropgold	monster.c	/^dropgold (int amount)$/
+dropobj	main.c	/^dropobj (void)$/
+dropsomething	monster.c	/^dropsomething (int monst)$/
+eat	create.c	/^eat (int xx, int yy)$/
+elapsedtime	scores.c	72
+emptyhanded	global.c	/^emptyhanded (void)$/
+enable_scroll	data.c	119
+enchantarmor	global.c	/^enchantarmor (void)$/
+enchweapon	global.c	/^enchweapon (void)$/
+enter	moreobj.c	/^enter (void)$/
+enter_name	io.c	/^enter_name (void)$/
+esb	scores.c	429
+experience	includes/larndata.h	45
+exten	object.c	881
+eys	spells.c	77
+fch	moreobj.c	/^fch (int how, long *x)$/
+fcheat	diag.c	/^fcheat (void)$/
+fd	io.c	90
+fillmonst	create.c	/^fillmonst (int what)$/
+fillmroom	create.c	/^fillmroom (int n, int what, int arg)$/
+fillroom	create.c	/^fillroom (int what, int arg)$/
+floor_consume	main.c	/^floor_consume (int search_item, char *cons_verb)$/
+floorc	data.c	138
+flush_buf	io.c	/^flush_buf (void)$/
+fntchange	moreobj.c	/^fntchange (int how)$/
+foo	movem.c	41
+forget	includes/larnfunc.h	/^#define forget() (item[playerx][playery]=know[play/
+fortfile	config.c	26
+fortsize	fortune.c	19
+froom	create.c	/^froom (int n, int itm, int arg)$/
+fsorry	diag.c	/^fsorry (void)$/
+fullhit	spells.c	/^fullhit (int xx)$/
+genmonst	spells.c	/^genmonst (void)$/
+genocided	includes/larndata.h	41
+getlevel	savelev.c	/^getlevel (void)$/
+getplid	scores.c	/^getplid (char *nam)$/
+getyn	global.c	/^getyn (void)$/
+godirect	spells.c	/^godirect (int spnum, int dam, char *str, int delay/
+gold	includes/larndata.h	43
+greedy	diag.c	/^greedy (void)$/
+gtime	data.c	116
+handsfull	store.c	/^handsfull (void)$/
+hardlev	scores.c	48
+hardlev	scores.c	59
+hashewon	scores.c	/^hashewon (void)$/
+hasmail	scores.c	61
+havepid	scores.c	968
+hit2flag	data.c	105
+hit3flag	data.c	106
+hitflag	data.c	104
+hitm	monster.c	/^hitm (int x, int y, int amt)$/
+hitmonster	monster.c	/^hitmonster (int x, int y)$/
+hitp	data.c	82
+hitp	includes/larndata.h	14
+hitplayer	monster.c	/^hitplayer (int x, int y)$/
+hitpoints	includes/larndata.h	44
+hp	scores.c	77
+hpmax	scores.c	77
+iarg	data.c	83
+iarg	includes/larndata.h	17
+id	spells.c	43
+ifblind	spells.c	/^ifblind (int x, int y)$/
+ignore	object.c	/^ignore (void)$/
+in	tgoto.c	87
+inbuffer	data.c	78
+init_inventory	inventory.c	/^init_inventory (void)$/
+init_term	io.c	/^init_term (void)$/
+initialtime	data.c	115
+intelligence	includes/larndata.h	42
+io_index	io.c	990
+iopts	object.c	/^iopts (void)$/
+ipoint	io.c	93
+isave	spells.c	39
+isconfuse	spells.c	/^isconfuse (void)$/
+item	data.c	84
+item	includes/larndata.h	16
+iven	inventory.c	39
+ivenarg	inventory.c	41
+ivensort	inventory.c	43
+killed	scores.c	78
+know	data.c	85
+know	includes/larndata.h	18
+lappend	io.c	/^lappend (char *str)$/
+larint	io.c	/^larint (void)$/
+lasthx	data.c	113
+lastmonst	data.c	88
+lastnum	data.c	103
+lastok	tok.c	25
+lastpx	data.c	108
+lastpy	data.c	108
+lasttime	store.c	628
+lcreat	io.c	/^lcreat (char *str)$/
+letter1	bill.c	/^letter1 (int gold)$/
+letter2	bill.c	/^letter2 (void)$/
+letter3	bill.c	/^letter3 (void)$/
+letter4	bill.c	/^letter4 (void)$/
+letter5	bill.c	/^letter5 (void)$/
+letter6	bill.c	/^letter6 (void)$/
+lev	scores.c	80
+lev	includes/larndata.h	25
+level	data.c	101
+level	scores.c	47
+level	includes/larndata.h	36
+levelname	data.c	123
+lfd	io.c	89
+lflush	io.c	/^lflush (void)$/
+lflushall	io.c	/^lflushall (void)$/
+lgetc	io.c	/^lgetc (void)$/
+lgetl	io.c	/^lgetl (void)$/
+lgetw	io.c	/^lgetw (void)$/
+lgetwbuf	io.c	94
+lifetime	includes/larndata.h	27
+lincount	display.c	849
+llgetch	ansiterm.c	/^llgetch (void)$/
+llrefresh	ansiterm.c	/^llrefresh (void)$/
+log_fmt	scores.c	65
+logfile	config.c	24
+logg	scores.c	99
+logname	data.c	98
+lookforobject	object.c	/^lookforobject (char do_ident, char do_pickup, char/
+lopen	io.c	/^lopen (char *str)$/
+loseexperience	global.c	/^loseexperience (long x)$/
+losehp	global.c	/^losehp (int x)$/
+loseint	spells.c	/^loseint (void)$/
+loselevel	global.c	/^loselevel (void)$/
+losemhp	global.c	/^losemhp (int x)$/
+losemspells	global.c	/^losemspells (int x)$/
+lpbuf	data.c	78
+lpend	data.c	78
+lpnt	data.c	78
+lprc	io.c	/^lprc (char ch)$/
+lprcat	io.c	/^lprcat (char *str)$/
+lprint	io.c	/^lprint (int x)$/
+lprintf	io.c	/^lprintf (const char *fmt, ...)$/
+lrandx	data.c	114
+lrclose	io.c	/^lrclose (void)$/
+lrfill	io.c	/^lrfill (char *adr, int num)$/
+lrs_welcome_text	store.c	/^lrs_welcome_text(void)$/
+lstandout	io.c	/^lstandout (char *str)$/
+lwclose	io.c	/^lwclose (void)$/
+lwrite	io.c	/^lwrite (char *buf, int len)$/
+makeboard	scores.c	/^makeboard (void)$/
+makemaze	create.c	/^makemaze (int k)$/
+makemonst	global.c	/^makemonst (int lev)$/
+makeobject	create.c	/^makeobject (int j)$/
+makeplayer	create.c	/^makeplayer (void)$/
+max	includes/larnfunc.h	/^#define max(x,y) (((x)>(y))?(x):(y))$/
+maxx	display.c	36
+maxy	display.c	36
+mazefile	config.c	25
+min	includes/larnfunc.h	/^#define min(x,y) (((x)>(y))?(y):(x))$/
+minx	display.c	36
+miny	display.c	36
+mitem	data.c	86
+mitem	includes/larndata.h	15
+mmove	movem.c	/^mmove (int aa, int bb, int cc, int dd)$/
+monst	includes/larndata.h	33
+monster	data.c	188
+monstlevel	data.c	186
+monstnamelist	data.c	135
+more	global.c	/^more (char select_allowed)$/
+move_cursor	moreobj.c	/^move_cursor (int *xx, int *yy, int cdir)$/
+move_dumb	movem.c	/^move_dumb (int i, int j)$/
+move_no_pickup	tok.c	27
+move_scared	movem.c	/^move_scared (int i, int j)$/
+move_smart	movem.c	/^move_smart (int i, int j)$/
+movelist	movem.c	46
+movemonst	movem.c	/^movemonst (void)$/
+moveplayer	display.c	/^moveplayer (int dir)$/
+moves	scores.c	75
+movsphere	spheres.c	/^movsphere (void)$/
+msdosfortune	fortune.c	/^msdosfortune (void)$/
+mx	create.c	147
+mxh	create.c	147
+mxl	create.c	147
+my	create.c	147
+myh	create.c	147
+myl	create.c	147
+name	includes/larndata.h	35
+nap	sysdep.c	/^void nap(int milliseconds)$/
+nch	data.c	718
+ndgg	data.c	720
+nearbymonst	global.c	/^nearbymonst (void)$/
+new1sub	scores.c	/^new1sub (int score, int i, char *whoo, int taxes)$/
+new2sub	scores.c	/^new2sub (int score, int i, char *whoo, int whyded)/
+newcavelevel	create.c	/^newcavelevel (int x)$/
+newchain	includes/larnfunc.h	/^#define newchain() (nch[rund(10)])$/
+newdagger	includes/larnfunc.h	/^#define newdagger() (ndgg[rund(13)])$/
+newgame	io.c	/^newgame (void)$/
+newleather	includes/larnfunc.h	/^#define newleather() (nlpts[rund(cdesc[HARDGAME]?1/
+newobject	monster.c	/^newobject (int lev, int *i)$/
+newplate	includes/larnfunc.h	/^#define newplate() (nplt[rund(cdesc[HARDGAME]?4:12/
+newpotion	includes/larnfunc.h	/^#define newpotion() (potprob[rund(41)])$/
+newscore	scores.c	/^newscore (int score, char *whoo, int whyded, int w/
+newscroll	includes/larnfunc.h	/^#define newscroll() (scprob[rund(81)])$/
+newsphere	spheres.c	/^newsphere (int x, int y, int dir, int life)$/
+newsword	includes/larnfunc.h	/^#define newsword() (nsw[rund(cdesc[HARDGAME]?6:13)/
+nlprc	display.c	/^#define nlprc(_ch) lprc(_ch)$/
+nlpts	data.c	717
+nobjtab	monster.c	593
+nogold	store.c	/^nogold (void)$/
+nomove	main.c	57
+nospell	spells.c	/^nospell (int x, int monst)$/
+nplt	data.c	719
+nsw	data.c	721
+o_closed_door	object.c	/^o_closed_door (void)$/
+o_open_door	object.c	/^o_open_door (void)$/
+oaltar	moreobj.c	/^oaltar (void)$/
+obank	store.c	/^obank (void)$/
+obank2	store.c	/^obank2 (void)$/
+obanksub	store.c	/^obanksub (void)$/
+obj	includes/larndata.h	52
+objectname	data.c	145
+objnamelist	data.c	133
+obook	object.c	/^obook (void)$/
+obottomless	object.c	/^obottomless (void)$/
+ochest	moreobj.c	/^ochest (void)$/
+ocookie	object.c	/^ocookie (void)$/
+odeadthrone	moreobj.c	/^odeadthrone (void)$/
+ofountain	moreobj.c	/^ofountain (void)$/
+ogold	object.c	/^ogold (int arg)$/
+ohome	object.c	/^ohome (void)$/
+ointerest	store.c	/^ointerest (void)$/
+oldx	data.c	109
+oldy	data.c	109
+olrs	store.c	/^olrs (void)$/
+omirror	object.c	/^omirror (void)$/
+omnidirect	spells.c	/^omnidirect (int spnum, int dam, char *str)$/
+open_something	moreobj.c	/^open_something (void)$/
+opit	object.c	/^opit (void)$/
+opotion	object.c	/^opotion (int pot)$/
+order	scores.c	49
+order	scores.c	60
+oschool	store.c	/^oschool (void)$/
+oscroll	object.c	/^oscroll (int typ)$/
+ostairs	object.c	/^ostairs (int dir)$/
+ostatue	object.c	/^ostatue (void)$/
+oteleport	object.c	/^oteleport (int err)$/
+othrone	moreobj.c	/^othrone (int arg)$/
+otradepost	store.c	/^otradepost (void)$/
+otradhead	store.c	/^otradhead (void)$/
+otradiven	store.c	/^otradiven (void)$/
+out	tgoto.c	88
+outbuf	io.c	729
+outfortune	fortune.c	/^outfortune (void)$/
+outofstock	store.c	/^outofstock (void)$/
+output	tgoto.c	91
+outstanding_taxes	data.c	117
+p	includes/larndata.h	24
+packweight	global.c	/^packweight (void)$/
+parse	main.c	/^parse (void)$/
+parse2	main.c	/^parse2 (void)$/
+paytaxes	scores.c	/^paytaxes (int x)$/
+pcount	tgoto.c	90
+playerids	config.c	27
+playerx	data.c	107
+playery	data.c	107
+pocketfull	inventory.c	/^pocketfull (void)$/
+positionplayer	global.c	/^positionplayer (void)$/
+potionname	data.c	318
+potprob	data.c	712
+pray_at_altar	moreobj.c	/^pray_at_altar (void)$/
+prayed	data.c	110
+predostuff	data.c	92
+price	includes/larndata.h	51
+process	tgoto.c	/^process (void)$/
+prompt_enter	object.c	/^prompt_enter (void)$/
+prompt_volshaft	object.c	/^prompt_volshaft (int dir)$/
+qshowstr	inventory.c	/^qshowstr (char select_allowed)$/
+qty	includes/larndata.h	54
+quaffpotion	object.c	/^quaffpotion (int pot, int set_known)$/
+queue	movem.c	255
+queue_entry	movem.c	250
+queue_head	movem.c	256
+queue_tail	movem.c	257
+quit	global.c	/^quit (void)$/
+raiseexperience	global.c	/^raiseexperience (long x)$/
+raisehp	global.c	/^raisehp (int x)$/
+raiselevel	global.c	/^raiselevel (void)$/
+raisemhp	global.c	/^raisemhp (int x)$/
+raisemspells	global.c	/^raisemspells (int x)$/
+rand	includes/larnfunc.h	61
+randmonst	main.c	/^randmonst (void)$/
+random	includes/larnfunc.h	57
+read_scroll	object.c	/^read_scroll (int typ)$/
+readboard	scores.c	/^readboard (void)$/
+readbook	object.c	/^readbook (int lev)$/
+readmail	bill.c	/^readmail (int gold)$/
+readnum	main.c	/^readnum (int mx)$/
+recalc	global.c	/^recalc (void)$/
+regen	regen.c	/^regen (void)$/
+regen_bottom	display.c	40
+remove_gems	moreobj.c	/^remove_gems (void)$/
+resetbold	includes/larnfunc.h	/^#define resetbold() (*lpnt++ = ST_END)$/
+resetscroll	includes/larnfunc.h	/^#define resetscroll() enable_scroll=0$/
+restoregame	diag.c	/^restoregame (char *fname)$/
+restorflag	main.c	61
+retcont	help.c	/^retcont(void)$/
+return_to_game	help.c	/^return_to_game(void)$/
+rmsphere	spheres.c	/^rmsphere (int x, int y)$/
+rmst	main.c	56
+rnd	includes/larnfunc.h	/^#define rnd(x)  ((int)(rand() % (x)) + 1)$/
+rndcount	diag.c	34
+run	main.c	/^run (int dir)$/
+rund	includes/larnfunc.h	/^#define rund(x) ((int)(rand() % (x)))$/
+rustarm	monster.c	738
+save_mode	main.c	71
+savefilename	config.c	22
+savegame	diag.c	/^savegame (char *fname)$/
+savelevel	savelev.c	/^savelevel (void)$/
+scbr	io.c	/^scbr (void)$/
+sch_hed	store.c	/^sch_hed (void)$/
+sciv	scores.c	51
+sco	scores.c	96
+scofmt	scores.c	43
+score	scores.c	45
+score	scores.c	56
+score	scores.c	67
+scorefile	config.c	23
+scorerror	scores.c	742
+scprob	data.c	692
+screen	movem.c	245
+screen_clear	includes/larnfunc.h	/^#define screen_clear() (*lpnt++ =CLEAR, regen_bott/
+scrline	io.c	876
+scrollname	data.c	285
+seemagic	display.c	/^seemagic (int arg)$/
+seepage	display.c	/^seepage (void)$/
+set_score_output	io.c	/^set_score_output (void)$/
+setbold	includes/larnfunc.h	/^#define setbold() (*lpnt++ = ST_START)$/
+sethard	tok.c	/^sethard (int hard)$/
+sethp	create.c	/^sethp (int flg)$/
+setscroll	includes/larnfunc.h	/^#define setscroll() enable_scroll=1$/
+setupvt100	io.c	/^setupvt100 (void)$/
+shou	scores.c	/^shou (int x)$/
+show1	inventory.c	/^show1 (int idx)$/
+show1cell	display.c	/^show1cell (int x, int y)$/
+show2	inventory.c	/^show2 (int index)$/
+show3	inventory.c	/^show3 (int index)$/
+showallscores	scores.c	/^showallscores (void)$/
+showcell	display.c	/^showcell (int x, int y)$/
+showeat	inventory.c	/^showeat (void)$/
+showplayer	display.c	/^showplayer (void)$/
+showquaff	inventory.c	/^showquaff (void)$/
+showread	inventory.c	/^showread (void)$/
+showscores	scores.c	/^showscores (void)$/
+showstr	inventory.c	/^showstr (char select_allowed)$/
+showwear	inventory.c	/^showwear (void)$/
+showwield	inventory.c	/^showwield (void)$/
+sit_on_throne	moreobj.c	/^sit_on_throne (void)$/
+skill	data.c	61
+smart	movem.c	45
+sncbr	io.c	/^sncbr (void)$/
+something	monster.c	/^something (int lv)$/
+sortboard	scores.c	/^sortboard (void)$/
+spattack	monster.c	/^spattack (int x, int xx, int yy)$/
+specify_obj_cursor	moreobj.c	/^specify_obj_cursor (void)$/
+specify_obj_nocurs	moreobj.c	/^specify_obj_nocurs (void)$/
+specify_object	moreobj.c	/^specify_object (void)$/
+spelcode	data.c	364
+speldamage	spells.c	/^speldamage (int x)$/
+speldescript	data.c	396
+spelknow	data.c	361
+spelmes	data.c	660
+spelname	data.c	373
+spelweird	data.c	444
+sphboom	spheres.c	/^sphboom (int x, int y)$/
+sphere	includes/larndata.h	22
+spheres	data.c	121
+splev	data.c	362
+spsel	monster.c	751
+spused	scores.c	78
+srand	includes/larnfunc.h	60
+srandom	includes/larnfunc.h	56
+srcount	inventory.c	46
+stealsomething	global.c	/^stealsomething (void)$/
+stealth	data.c	87
+string	display.c	310
+t_endup	inventory.c	/^t_endup (int count)$/
+t_setup	inventory.c	/^t_setup (int count)$/
+take	inventory.c	/^take (int itm, int arg)$/
+taxes	scores.c	58
+tdirect	spells.c	/^tdirect (int spnum)$/
+time_change	object.c	886
+timeused	scores.c	57
+tmcapcnv	io.c	/^tmcapcnv (char *sd, char *ss)$/
+tmp1	movem.c	38
+tmp2	create.c	147
+tmp2	movem.c	38
+tmp3	movem.c	38
+tmp4	movem.c	38
+tputs	io.c	/^tputs (const char *cp)$/
+tradorder	store.c	908
+treasureroom	create.c	/^treasureroom (int lv)$/
+troom	create.c	/^troom (int lv, int xsize, int ysize, int tx, int t/
+ttgetch	io.c	/^ttgetch (void)$/
+ttputch	io.c	/^ttputch (int c)$/
+typ	display.c	309
+type	spells.c	42
+up_stairs	moreobj.c	/^up_stairs (void)$/
+usage	scores.c	79
+viewflag	main.c	59
+volshaft_climbed	action.c	/^volshaft_climbed (int object)$/
+vxy	monster.c	/^vxy (int *x, int *y)$/
+w1x	movem.c	37
+w1y	movem.c	37
+wallc	data.c	139
+wash_fountain	moreobj.c	/^wash_fountain (void)$/
+waterc	data.c	142
+wear	main.c	/^wear (void)$/
+welcome	help.c	/^welcome (void)$/
+what	scores.c	46
+what	scores.c	83
+whatitem	main.c	/^whatitem (char *str)$/
+who	scores.c	50
+who	scores.c	62
+who	scores.c	82
+whydead	scores.c	100
+wield	main.c	/^wield (void)$/
+winr	scores.c	97
+winshou	scores.c	/^winshou (void)$/
+wizard	data.c	102
+writeboard	scores.c	/^writeboard (void)$/
+wscofmt	scores.c	54
+x	movem.c	43
+x	movem.c	252
+x	includes/larndata.h	25
+xh	object.c	875
+xl	object.c	875
+y	movem.c	44
+y	movem.c	253
+y	includes/larndata.h	25
+ycwi	main.c	/^ycwi (int x)$/
+ydhi	main.c	/^ydhi (int x)$/
+yh	object.c	875
+yl	object.c	875
+yrepcount	tok.c	26
+yylex	tok.c	/^yylex (void)$/
+zzz	diag.c	189
