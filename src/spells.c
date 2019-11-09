@@ -641,8 +641,8 @@ fullhit (int xx)
 
   if (xx < 0 || xx > 20)
     return (0);			/* fullhits are out of range */
-  if (cdesc[GREATSWORDDEATH])
-    return (10000);		/* great sword of death */
+  if (cdesc[LANCEDEATH])
+    return (10000);		/* lance of death */
   i = xx * ((cdesc[WCLASS] >> 1) + cdesc[STRENGTH] + cdesc[STREXTRA] -
 	    cdesc[HARDGAME] - 12 + cdesc[MOREDAM]);
   return ((i >= 1) ? i : xx);

@@ -408,8 +408,7 @@ treasureroom (int lv)
 
   for (tx = 1 + rnd (10); tx < MAXX - 10; tx += 10)
     if ((lv == MAXLEVEL - 1) || (lv == MAXLEVEL + MAXVLEVEL - 1)
-    /*Increased this math to a 50 percent chance. -Gibbon */
-	|| rnd (10) == 5)
+      || rnd (13) == 2)
       {
 	xsize = rnd (6) + 3;
 	ysize = rnd (3) + 3;
@@ -567,6 +566,7 @@ makeobject (int j)
   froom (1, OSTUDLEATHER, 0);	/* a studded leather    */
   froom (3, OSPLINT, 0);	/* a splint mail        */
   froom (5, OSHIELD, rund (3));	/* a shield             */
+  froom (5, OFLAIL, rund (3));	/* a flail   */
   froom (2, OBATTLEAXE, rund (3));	/* a battle axe         */
   froom (5, OLONGSWORD, rund (3));	/* a long sword         */
   froom (4, OREGENRING, rund (3));	/* ring of regeneration */
@@ -590,7 +590,6 @@ makeobject (int j)
 	{
 	  froom (3, OSWORD, 3);	/* sunsword + 3         */
 	  froom (5, O2SWORD, rnd (4));	/* a two handed sword */
-	  froom (5, OHSWORD, rnd (4));	/* a longsword of Hymie     */
 	  froom (3, OBELT, 4);	/* belt of striking     */
 	  froom (3, OENERGYRING, 3);	/* energy ring          */
 	  froom (4, OPLATE, 5);	/* platemail + 5        */

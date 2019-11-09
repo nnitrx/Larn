@@ -66,7 +66,7 @@ GLOBE	includes/larncons.h	173
 GNOME	includes/larncons.h	70
 GNOMEKING	includes/larncons.h	113
 GOLD	includes/larncons.h	142
-GREATSWORDDEATH	includes/larncons.h	194
+LANCEDEATH	includes/larncons.h	194
 GREENDRAGON	includes/larncons.h	117
 GREENURCHIN	includes/larncons.h	123
 HALFDAM	includes/larncons.h	204
@@ -170,11 +170,11 @@ OENERGYRING	includes/larncons.h	288
 OENTRANCE	includes/larncons.h	312
 OFOUNTAIN	includes/larncons.h	239
 OGOLDPILE	includes/larncons.h	251
-OGREATSWORD	includes/larncons.h	281
+OLANCE	includes/larncons.h	281
 OHAMMER	includes/larncons.h	273
 OHANDofFEAR	includes/larncons.h	332
 OHOME	includes/larncons.h	315
-OHSWORD	includes/larncons.h	276
+OFLAIL	includes/larncons.h	276
 OIVDARTRAP	includes/larncons.h	319
 OIVTELETRAP	includes/larncons.h	324
 OIVTRAPDOOR	includes/larncons.h	322

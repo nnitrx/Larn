@@ -97,13 +97,13 @@ struct _itm dnd_item[90] = {
 
   {2, ODAGGER, 0, 3},
   {20, OSPEAR, 0, 3},
+  {80, OFLAIL, 0, 2},
   {150, OBATTLEAXE, 0, 2},
   {450, OLONGSWORD, 0, 2},
   {1000, O2SWORD, 0, 2},
   {5000, OSWORD, 0, 1},
 
-  /* lets make it twice as expensive. ~Gibbon */
-  {30000, OGREATSWORD, 0, 1},
+  {16500, OLANCE, 0, 1},
   {6000, OSWORDofSLASHING, 0, 0},
   {10000, OHAMMER, 0, 0},
 

@@ -701,13 +701,10 @@ parse (void)
 	      cdesc[i] = 70;
 	    }
 	  iven[0] = iven[1] = 0;
-	  /* give the ring a little boost. ~Gibbon */
-	  take (OPROTRING, 51);
-	  /* lets nerf it a little bit.
-	   * ~Gibbon */
-	  take (OGREATSWORD, 24);
+	  take (OPROTRING, 50);
+	  take (OLANCE, 25);
 	  cdesc[WIELD] = 1;
-	  cdesc[GREATSWORDDEATH] = 1;
+	  cdesc[LANCEDEATH] = 1;
 	  raiseexperience (6000000L);
 	  cdesc[AWARENESS] += 25000;
 	  {
@@ -893,28 +890,21 @@ wield (void)
 	      return;
 
 	    }
-	  else if (cdesc[SHIELD] != -1 && iven[i - 'a'] == OHSWORD)
-	    {
-
-	      lprcat ("\nA longsword of Hymie cannot be used while a shield is equipped!");
-	      return;
-
-	    }
 	  else
 	    {
 
 	      cdesc[WIELD] = i - 'a';
 
-	      if (iven[i - 'a'] == OGREATSWORD)
+	      if (iven[i - 'a'] == OLANCE)
 		{
 
-		  cdesc[GREATSWORDDEATH] = 1;
+		  cdesc[LANCEDEATH] = 1;
 
 		}
 	      else
 		{
 
-		  cdesc[GREATSWORDDEATH] = 0;
+		  cdesc[LANCEDEATH] = 0;
 		}
 
 	      bottomline ();
@@ -1005,11 +995,6 @@ wear (void)
 		    lprcat
 		      ("\nYour hands are busy with the two handed sword!");
 		    return;
-		  }
-		  if (iven[cdesc[WIELD]] == OHSWORD)
-		  {
-		    lprcat("\nYou are holding a longsword of Hymie!");
-			return;
 		  }
 		cdesc[SHIELD] = i - 'a';
 		bottomline ();

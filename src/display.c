@@ -609,14 +609,6 @@ showcell (int x, int y)
       miny = y - 3;
       maxy = y + 3;
     }
-  else if (iven[cdesc[WIELD]] == OHSWORD
-        &&   ivenarg[cdesc[WIELD]] >=0)
-    {
-      minx = x - 2;
-      maxx = x + 2;
-      miny = y - 2;
-      maxy = y + 2;
-    }
   else
     {
       minx = x - 1;
