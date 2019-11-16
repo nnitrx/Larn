@@ -1151,7 +1151,7 @@ enter_name (void)
 
       if (c == '\n')
 	break;
-      if (c == 8)
+      if (c == 8 || c == 127)
 	{
 	  if (i > 0)
 	    {
